@@ -1,2 +1,2 @@
 # MyFirstRepository
-This is an experimental repository.
+This is a repository.
